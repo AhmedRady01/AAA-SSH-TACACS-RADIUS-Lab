@@ -92,4 +92,4 @@ debug aaa authentication
 
 **Ahmed Rady**
 SOC Analyst Intern | CCNA | Ethical Hacking
-🔗 [LinkedIn](https://linkedin.com/in/ahmed-rady-b35252244) · 💻 [GitHub](https://github.com/AhmedRady01)
+🔗 [LinkedIn](https://linkedin.com/in/ahmed--rady) · 💻 [GitHub](https://github.com/AhmedRady01)
